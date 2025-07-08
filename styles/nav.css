@@ -1,0 +1,30 @@
+  .container{
+            background-color: aquamarine;
+            height: 500px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .box{
+            background-color: teal;
+            width: 300px;
+            height: 300px;
+            font-size: 1em;
+            color: white;
+            text-align: center;
+        }
+
+        nav ul{
+            display: flex;
+        }
+
+        nav li{
+            list-style: none;
+        }
+        nav li a{
+            text-decoration: none;
+            margin-right: 25px;
+            font-size: 20px;
+            color: black;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
