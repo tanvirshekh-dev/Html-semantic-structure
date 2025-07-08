@@ -1,0 +1,13 @@
+form .basic-info label{
+    display: block;
+    margin-top: 20px;
+}
+input[type="submit"], input[type="reset"]{
+    padding: 5px 15px;
+    display: inline;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.heading{
+    text-align: center;
+}
